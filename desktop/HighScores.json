@@ -1,0 +1,60 @@
+{
+scores: [
+	{
+		name: rusd,
+		score: 57
+	},
+	{
+		name: rusd,
+		score: 48
+	},
+	{
+		name: rusd,
+		score: 22
+	},
+	{
+		name: rusd,
+		score: 14
+	},
+	{
+		name: rusd,
+		score: 12
+	},
+	{
+		name: Drew,
+		score: 7
+	},
+	{
+		name: rusd,
+		score: 5
+	},
+	{
+		name: rusd,
+		score: 3
+	},
+	{
+		name: rusd,
+		score: 3
+	},
+	{
+		name: rusd,
+		score: 3
+	},
+	{
+		name: rusd,
+		score: 1
+	},
+	{
+		name: rusd,
+		score: 7
+	},
+	{
+		name: rusd,
+		score: 6
+	},
+	{
+		name: rusd,
+		score: 4
+	}
+]
+}
